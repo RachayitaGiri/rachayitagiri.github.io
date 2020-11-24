@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## RACHAYITA GIRI
+Long Beach, CA - 90815 | rachayitagiri@gmail.com |
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub logo" width="30">
+<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn logo" width="30">
+<img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="LinkedIn logo" height="30">
 
-You can use the [editor on GitHub](https://github.com/RachayitaGiri/rachayitagiri.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#### EDUCATION
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+University | Location | Degree | Major | Score/GPA | Graduation Date
+-----------|----------|--------|-------|-----------|----------------
+California State University, Long Beach | Los Angeles, CA | MS | Computer Science | 3.8 | Dec 2019
+Indira Gandhi Delhi Technical University for Women | Delhi, India | B.Tech | Information Technology | 81% | May 2017
 
-### Markdown
+#### WORK EXPERIENCE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* **Machine Learning Engineer** | _Mentra, Los Angeles, CA (Oct 2020 - Present)_
+    * Leading the Data Science team at Georgia Tech to explore clustering and feature extraction of candidate data and job posting data to facilitate highly personalized job matches for the neurodiverse population.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RachayitaGiri/rachayitagiri.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* **Machine Learning Engineer** | _Schlumberger, Cambridge, MA (Jul 2019 - Dec 2019)_
+    * Designed and developed a machine learning solution for 3-casing corrosion inspection in the presence of arbitrary wall losses using Python, Keras, Scikit-learn, Matplotlib, Pandas, Numpy
+    * Achieved a 500x speed-up through a deep neural network-based proxy model for 3-casing induction data, along with less than 1% error in inversion, using Python, Keras, Matplotlib, Pandas, Numpy, Scipy
